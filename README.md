@@ -1,9 +1,16 @@
-<h1 align="center" id="title">Student management system</h1>
+<div align='center'>
 
-<p align="center"><img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fgithub.com%2Ftopics%2Fstudent-management-system%3Fo%3Dasc%26s%3Dforks&amp;psig=AOvVaw1aH_HxiJSiqhq3qU1m7VZo&amp;ust=1720160777112000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBEQjRxqFwoTCIDAr7TgjIcDFQAAAAAdAAAAABAJ" alt="project-image"></p>
+<img src=https://geniuseduerp.com/assets/img/institute-student-management.png alt="logo" width= height= />
 
-<p id="description">This is a project that keeps track of students' records.</p>
+<h1>Student management system</h1>
+<p>This is a project that keeps track of students' records.</p>
 
+<h4> <span> · </span> <a href="https://github.com/hellenats/Student_management_system/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/hellenats/Student_management_system/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/hellenats/Student_management_system/issues"> Request Feature </a> </h4>
+
+
+</div>
+
+## :star2: About the Project
   
 <h2>💻 Built with</h2>
 
