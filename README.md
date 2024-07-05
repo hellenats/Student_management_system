@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://geniuseduerp.com/assets/img/institute-student-management.png alt="logo" width= height= />
+<img src=https://geniuseduerp.com/assets/img/institute-student-management.png>
 
 <h1>Student management system</h1>
 <p>This is a project that keeps track of students' records.</p>
